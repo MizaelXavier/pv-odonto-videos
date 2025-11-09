@@ -139,7 +139,7 @@ function App() {
               },
               {
                 icon: Shield,
-                title: "Conformidade com CFO",
+                title: "Conformidade com CRO",
                 desc: "Todo conteúdo criado respeitando as normas éticas do Conselho Federal de Odontologia"
               }
             ].map((benefit, idx) => (
