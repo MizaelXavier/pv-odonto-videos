@@ -536,7 +536,7 @@ function App() {
                 a: "A maioria dos nossos clientes começa a ver aumento nas conversões dentro de 15-30 dias. O impacto completo geralmente é percebido após 60-90 dias de trabalho consistente."
               },
               {
-                q: "Vocês conhecem as regulamentações do CFO?",
+                q: "Vocês conhecem as regulamentações do CRO?",
                 a: "Sim! Todo nosso conteúdo é criado respeitando rigorosamente o Código de Ética Odontológica. Temos consultoria jurídica especializada que valida cada material antes da entrega."
               },
               {
